@@ -4,5 +4,7 @@ Overarching Question: What are the encoding differences between images (maybe vi
 
 # References
 Consensus clustering approach to group brain connectivity matrices: https://direct.mit.edu/netn/article/1/3/242/2201/Consensus-clustering-approach-to-group-brain 
+
+
 Hierarchical & Spectral Clustering: https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture13.pdf
 
