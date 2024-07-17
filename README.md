@@ -7,7 +7,7 @@
 Overarching Question: What are the encoding differences between images (maybe videos) with a clear living subject (humans, animals etc) vs. frames of the videos without that feature? BONUS: In the frames without a clear subject, is there an identifiable period of time where the participant needs to mentally search for a subject?
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/clachevv/neuro-match-project/blob/main/pictures/pic.png)
 
 
 
