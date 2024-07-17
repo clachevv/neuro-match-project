@@ -4,7 +4,9 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A comparison between voxel-based encoding models and CNNs to predict the human brain response to videos
+Overarching Question: What are the encoding differences between images (maybe videos) with a clear living subject (humans, animals etc) vs. images without that feature? BONUS: In the images without a clear subject, is there an identifiable period of time where the participant needs to mentally search for a subject?
+
+
 
 ## Project Organization
 
