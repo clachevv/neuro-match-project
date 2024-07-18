@@ -1,5 +1,5 @@
 ## Neuromatch Group: "Quantrek"
-Overarching Question: What are the encoding differences between videos with a clear living subject (humans, animals etc) vs. frames of the videos without that feature? We use cluster the PCA's using DBSCAN to understand the different responses to the videos. 
+Overarching Question: What are the encoding differences between videos with a clear living subject (humans, animals etc) vs no clear subject and what which ROI's (region of the brain) give a stronger weaker response?  We use cluster the PCA's using DBSCAN to understand the different responses to the videos. 
 
 BONUS: In the frames without a clear subject, is there an identifiable period of time where the participant needs to mentally search for a subject?
 
