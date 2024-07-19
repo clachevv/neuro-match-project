@@ -1,0 +1,85 @@
+index,video_id, alexnet_classes,percentage, llm_classes
+836,/content/AlgonautsVideos268_All_30fpsmax/0837_flickr-8-0-1-0-5-1-6-4-4380105164_6.mp4,"fox squirrel, eastern fox squirrel, Sciurus niger",99.5449,Animals
+693,/content/AlgonautsVideos268_All_30fpsmax/0694_flickr-5-9-7-8-5-3-1-8-5359785318_14.mp4,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",98.53103,Animals
+18,/content/AlgonautsVideos268_All_30fpsmax/0019_0-7-9-9-7-7-1-5-4307997715.mp4,"fox squirrel, eastern fox squirrel, Sciurus niger",95.38702,Animals
+602,/content/AlgonautsVideos268_All_30fpsmax/0603_flickr-5-0-2-4-2-0-0-0-7450242000_21.mp4,peacock,94.23879,Animals
+1085,/content/AlgonautsVideos268_All_30fpsmax/1086_flickr-7-9-4-4-0-1-3-1-4879440131_23.mp4,"porcupine, hedgehog",93.74419,Animals
+303,/content/AlgonautsVideos268_All_30fpsmax/0304_flickr-0-8-9-6-3-0-0-2-4108963002_3.mp4,sorrel,84.18168,Animals
+669,/content/AlgonautsVideos268_All_30fpsmax/0670_flickr-5-7-7-5-4-6-5-8-7657754658_4.mp4,sorrel,81.26122,Animals
+1036,/content/AlgonautsVideos268_All_30fpsmax/1037_flickr-2-3-2-2-6-8-3-4-4323226834_12.mp4,otter,80.97825,Animals
+216,/content/AlgonautsVideos268_All_30fpsmax/0217_flickr-0-0-3-8-6-7-6-9-18500386769_7.mp4,sorrel,78.58652,Animals
+426,/content/AlgonautsVideos268_All_30fpsmax/0427_flickr-2-7-6-1-5-5-9-1-9127615591_2.mp4,"fox squirrel, eastern fox squirrel, Sciurus niger",77.88601,Animals
+560,/content/AlgonautsVideos268_All_30fpsmax/0561_flickr-4-4-7-8-4-8-5-4-16644784854_1.mp4,jellyfish,77.60426,Animals
+1013,/content/AlgonautsVideos268_All_30fpsmax/1014_7-5-2-4657425752.mp4,bee,77.57568,Animals
+454,/content/AlgonautsVideos268_All_30fpsmax/0455_flickr-3-1-6-5690390316_5.mp4,"Indian elephant, Elephas maximus",77.15848,Animals
+102,/content/AlgonautsVideos268_All_30fpsmax/0103_4-9-0-4-8-4-8-7-3949048487.mp4,geyser,99.82595,Natural Phenomena and Places
+188,/content/AlgonautsVideos268_All_30fpsmax/0189_9-3-3-3-4-8-5-2-3193334852.mp4,geyser,98.4016,Natural Phenomena and Places
+184,/content/AlgonautsVideos268_All_30fpsmax/0185_9-0-0-5-1-3-8-3-14090051383.mp4,geyser,98.32468,Natural Phenomena and Places
+879,/content/AlgonautsVideos268_All_30fpsmax/0880_flickr-8-6-2-4-3-6-0-7-3586243607_28.mp4,geyser,96.91085,Natural Phenomena and Places
+600,/content/AlgonautsVideos268_All_30fpsmax/0601_flickr-5-0-1-5152849501_55.mp4,volcano,88.76292,Natural Phenomena and Places
+253,/content/AlgonautsVideos268_All_30fpsmax/0254_flickr-0-4-0-8-8-1-7-2-14904088172_6.mp4,volcano,85.70172,Natural Phenomena and Places
+480,/content/AlgonautsVideos268_All_30fpsmax/0481_flickr-3-5-8-7-6-6-7-1-8035876671_24.mp4,coral reef,81.96788,Natural Phenomena and Places
+342,/content/AlgonautsVideos268_All_30fpsmax/0343_flickr-1-4-6-9-7-5-3-3-3414697533_9.mp4,geyser,80.56718,Natural Phenomena and Places
+386,/content/AlgonautsVideos268_All_30fpsmax/0387_flickr-2-1-4-1-7-8-4-4-3321417844_2.mp4,"cliff, drop, drop-off",79.0248,Natural Phenomena and Places
+1090,/content/AlgonautsVideos268_All_30fpsmax/1091_flickr-8-9-1-1-1-8-9-7-6289111897_52.mp4,coral reef,78.89694,Natural Phenomena and Places
+757,/content/AlgonautsVideos268_All_30fpsmax/0758_flickr-7-3-1-8-7-2-9-3-5073187293_6.mp4,balloon,99.98659,Objects and Tools
+1017,/content/AlgonautsVideos268_All_30fpsmax/1018_KmiziIcOq2E_226.mp4,potter's wheel,99.64386,Objects and Tools
+500,/content/AlgonautsVideos268_All_30fpsmax/0501_flickr-3-8-5-7-5-9-3-9-16038575939_43_edit.mp4,"candle, taper, wax light",94.1573,Objects and Tools
+345,/content/AlgonautsVideos268_All_30fpsmax/0346_flickr-1-5-2-7-8-9-2-5-5515278925_11.mp4,orange,93.87868,Objects and Tools
+1074,/content/AlgonautsVideos268_All_30fpsmax/1075_flickr-7-0-6-11866890706_21.mp4,"bannister, banister, balustrade, balusters, handrail",90.10791,Objects and Tools
+799,/content/AlgonautsVideos268_All_30fpsmax/0800_flickr-7-6-8-6-5-1-3-3-2976865133_11.mp4,scoreboard,88.71197,Objects and Tools
+81,/content/AlgonautsVideos268_All_30fpsmax/0082_4-2-5-6-5-3-6-5-16342565365.mp4,"computer keyboard, keypad",86.97887,Objects and Tools
+1060,/content/AlgonautsVideos268_All_30fpsmax/1061_flickr-5-3-2-3-9-9-4-9-6553239949_6.mp4,scoreboard,85.19344,Objects and Tools
+373,/content/AlgonautsVideos268_All_30fpsmax/0374_flickr-1-9-1-9-7-1-5-5-17219197155_2_edit.mp4,"restaurant, eating house, eating place, eatery",81.81567,Objects and Tools
+521,/content/AlgonautsVideos268_All_30fpsmax/0522_flickr-4-0-7-1-3-2-0-4-3340713204_7.mp4,sewing machine,79.29743,Objects and Tools
+652,/content/AlgonautsVideos268_All_30fpsmax/0653_flickr-5-5-7-6-1-9-9-5-4055761995_29.mp4,"crib, cot",78.67863,Objects and Tools
+898,/content/AlgonautsVideos268_All_30fpsmax/0899_flickr-8-9-4-9-6-6-6-4-2689496664_6.mp4,"dam, dike, dyke",78.45689,Objects and Tools
+1086,/content/AlgonautsVideos268_All_30fpsmax/1087_flickr-8-3-0-8-9-8-8-1-6683089881_3.mp4,abacus,78.28651,Objects and Tools
+42,/content/AlgonautsVideos268_All_30fpsmax/0043_1-6-0-2796094160.mp4,scuba diver,99.79518,Sports and Recreation
+689,/content/AlgonautsVideos268_All_30fpsmax/0690_flickr-5-9-3-9-5-4-6-4-8659395464_5.mp4,swing,98.4254,Sports and Recreation
+666,/content/AlgonautsVideos268_All_30fpsmax/0667_flickr-5-7-5-1-6-9-7-1-22357516971_3.mp4,scuba diver,98.30781,Sports and Recreation
+532,/content/AlgonautsVideos268_All_30fpsmax/0533_flickr-4-2-0-7-1-7-2-3-12442071723_2_edit.mp4,scuba diver,97.63799,Sports and Recreation
+394,/content/AlgonautsVideos268_All_30fpsmax/0395_flickr-2-2-6-9-9-3-0-8-3422699308_1.mp4,"puck, hockey puck",96.50657,Sports and Recreation
+932,/content/AlgonautsVideos268_All_30fpsmax/0933_flickr-9-3-7-9-4-7-7-2-15393794772_6.mp4,scuba diver,95.6679,Sports and Recreation
+611,/content/AlgonautsVideos268_All_30fpsmax/0612_flickr-5-1-3-7-3-0-4-0-3151373040_12.mp4,scuba diver,95.03821,Sports and Recreation
+610,/content/AlgonautsVideos268_All_30fpsmax/0611_flickr-5-0-8-9-2-3-6-3-3350892363_15_edit.mp4,"puck, hockey puck",94.87612,Sports and Recreation
+667,/content/AlgonautsVideos268_All_30fpsmax/0668_flickr-5-7-6-2-0-8-5-4-4357620854_2.mp4,ski,94.82854,Sports and Recreation
+654,/content/AlgonautsVideos268_All_30fpsmax/0655_flickr-5-6-1-9-0-0-9-3-8456190093_44.mp4,ski,92.75848,Sports and Recreation
+806,/content/AlgonautsVideos268_All_30fpsmax/0807_flickr-7-7-8-8-3-9-1-1-6877883911_78.mp4,snorkel,92.5732,Sports and Recreation
+17,/content/AlgonautsVideos268_All_30fpsmax/0018_0-7-7-9-8-1-7-4-24407798174.mp4,ski,90.23139,Sports and Recreation
+30,/content/AlgonautsVideos268_All_30fpsmax/0031_1-1-8-8-3-2-8-3-13711883283.mp4,ski,90.09498,Sports and Recreation
+1041,/content/AlgonautsVideos268_All_30fpsmax/1042_flickr-3-1-6-4273893316_10.mp4,basketball,90.06324,Sports and Recreation
+310,/content/AlgonautsVideos268_All_30fpsmax/0311_flickr-0-9-7-4-9-5-4-8-3109749548_27.mp4,ski,85.73312,Sports and Recreation
+839,/content/AlgonautsVideos268_All_30fpsmax/0840_flickr-8-0-2-1-2-6-3-1-17180212631_31.mp4,"ballplayer, baseball player",83.74289,Sports and Recreation
+612,/content/AlgonautsVideos268_All_30fpsmax/0613_flickr-5-1-4-5-0-6-7-1-8551450671_8.mp4,"horizontal bar, high bar",83.40305,Sports and Recreation
+133,/content/AlgonautsVideos268_All_30fpsmax/0134_6-3-7-7169142637.mp4,"ballplayer, baseball player",82.59751,Sports and Recreation
+414,/content/AlgonautsVideos268_All_30fpsmax/0415_flickr-2-5-7-0-8-8-8-8-6225708888_12.mp4,"ballplayer, baseball player",80.48708,Sports and Recreation
+963,/content/AlgonautsVideos268_All_30fpsmax/0964_flickr-9-9-0-7-9-9-1-3-9999079913_39.mp4,ski,80.26338,Sports and Recreation
+157,/content/AlgonautsVideos268_All_30fpsmax/0158_7-5-4-8-3-8-3-6-25975483836.mp4,"swimming trunks, bathing trunks",79.21683,Sports and Recreation
+56,/content/AlgonautsVideos268_All_30fpsmax/0057_2-0-9-8159444209.mp4,basketball,77.65685,Sports and Recreation
+823,/content/AlgonautsVideos268_All_30fpsmax/0824_flickr-7-8-7-4-1-9-8-4-6178741984_38.mp4,ski,77.52833,Sports and Recreation
+406,/content/AlgonautsVideos268_All_30fpsmax/0407_flickr-2-4-2-4-4-5-5-1-6524244551_4.mp4,"ballplayer, baseball player",75.58744,Sports and Recreation
+457,/content/AlgonautsVideos268_All_30fpsmax/0458_flickr-3-1-8-0-9-1-9-5-2731809195_2.mp4,"bathing cap, swimming cap",75.54881,Sports and Recreation
+964,/content/AlgonautsVideos268_All_30fpsmax/0965_flickr-9-9-4-3-1-1-8-0-6799431180_6.mp4,"ballplayer, baseball player",75.45905,Sports and Recreation
+516,/content/AlgonautsVideos268_All_30fpsmax/0517_flickr-4-0-1-6-2-7-4-6-7640162746_3.mp4,"tricycle, trike, velocipede",97.29745,Vehicles
+50,/content/AlgonautsVideos268_All_30fpsmax/0051_1-8-7-1-1-9-6-6-5418711966.mp4,"snowplow, snowplough",93.10879,Vehicles
+913,/content/AlgonautsVideos268_All_30fpsmax/0914_flickr-9-1-1-7-7-0-9-7-3591177097_3.mp4,speedboat,92.41425,Vehicles
+33,/content/AlgonautsVideos268_All_30fpsmax/0034_1-2-5-3344278125.mp4,"bicycle-built-for-two, tandem bicycle, tandem",91.92002,Vehicles
+818,/content/AlgonautsVideos268_All_30fpsmax/0819_flickr-7-8-5-8-5-9-8-9-5878585989_16.mp4,go-kart,91.06567,Vehicles
+838,/content/AlgonautsVideos268_All_30fpsmax/0839_flickr-8-0-1-1-0-9-6-3-4480110963_24.mp4,"lawn mower, mower",90.78412,Vehicles
+691,/content/AlgonautsVideos268_All_30fpsmax/0692_flickr-5-9-7-5-7-7-6-3-2559757763_3.mp4,"mountain bike, all-terrain bike, off-roader",90.46716,Vehicles
+178,/content/AlgonautsVideos268_All_30fpsmax/0179_8-7-8-4802252878.mp4,"tricycle, trike, velocipede",89.85112,Vehicles
+95,/content/AlgonautsVideos268_All_30fpsmax/0096_4-7-1-1-2-8-3-0-25247112830.mp4,speedboat,89.11871,Vehicles
+300,/content/AlgonautsVideos268_All_30fpsmax/0301_flickr-0-8-8-7-2-4-7-2-5808872472_8.mp4,"paddle, boat paddle",84.47488,Vehicles
+902,/content/AlgonautsVideos268_All_30fpsmax/0903_flickr-8-9-5-8-8-1-7-2-8389588172_9.mp4,"warplane, military plane",84.30229,Vehicles
+936,/content/AlgonautsVideos268_All_30fpsmax/0937_flickr-9-4-9-1-1-3-6-8-2594911368_4.mp4,electric locomotive,83.46067,Vehicles
+162,/content/AlgonautsVideos268_All_30fpsmax/0163_7-8-4-11617872784.mp4,yawl,81.8129,Vehicles
+6,/content/AlgonautsVideos268_All_30fpsmax/0007_0-2-3-14056753023.mp4,airliner,81.00665,Vehicles
+545,/content/AlgonautsVideos268_All_30fpsmax/0546_flickr-4-3-2-2-6-4-7-0-15243226470_5.mp4,"snowplow, snowplough",80.82388,Vehicles
+582,/content/AlgonautsVideos268_All_30fpsmax/0583_flickr-4-7-5-4-1-0-8-5-11147541085_15.mp4,fireboat,80.66322,Vehicles
+1014,/content/AlgonautsVideos268_All_30fpsmax/1015_7-9-9-5-6-0-9-4-10879956094_8_edit.mp4,oxcart,78.42602,Vehicles
+607,/content/AlgonautsVideos268_All_30fpsmax/0608_flickr-5-0-7-6-4-9-8-4-4050764984_13.mp4,trimaran,76.74693,Vehicles
+910,/content/AlgonautsVideos268_All_30fpsmax/0911_flickr-9-1-0-5-3-3-4-5-3891053345_1.mp4,speedboat,76.01493,Vehicles
+170,/content/AlgonautsVideos268_All_30fpsmax/0171_8-1-0-2784666810.mp4,speedboat,75.47655,Vehicles
+721,/content/AlgonautsVideos268_All_30fpsmax/0722_flickr-6-7-1-1-2-6-2-3-3667112623_51.mp4,go-kart,75.26401,Vehicles
+830,/content/AlgonautsVideos268_All_30fpsmax/0831_flickr-7-9-6-1-1-9-6-8-17879611968_8.mp4,speedboat,74.42854,Vehicles
