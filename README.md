@@ -1,7 +1,10 @@
 ## Neuromatch Group: "Quantrek"
 Overarching Question: What are the encoding differences between videos with a clear living subject (humans, animals etc) vs no clear subject and what which ROI's (region of the brain) give a stronger weaker response?  We use cluster the PCA's using DBSCAN to understand the different responses to the videos. 
 
-BONUS: In the frames without a clear subject, is there an identifiable period of time where the participant needs to mentally search for a subject?
+Can we learn how the brain processes visual stimuli in different brain regions (ROI's) by comparing FMRI data with AlexNet?
+
+
+BONUS Questions: In the frames without a clear subject, is there an identifiable period of time where the participant needs to mentally search for a subject? Can we compare our DBSCAN clusters versus Quantum DBSCAN?
 
 ![alt text](https://github.com/clachevv/neuro-match-project/blob/main/pictures/pic.png)
 
