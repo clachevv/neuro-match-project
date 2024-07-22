@@ -1,5 +1,5 @@
 ## Neuromatch Group: "Quantrek"
-Overarching Question: Can we learn how the brain processes visual stimuli in different brain regions (ROI's) by comparing FMRI data with AlexNet?
+Overarching Question: Can we learn how the brain processes visual stimuli in different brain regions (ROI's) by comparing FMRI data with an optimal AlexNet? 
 
 BONUS Questions: In the frames without a clear subject, is there an identifiable period of time where the participant needs to mentally search for a subject? Can we compare our DBSCAN clusters versus Quantum clustering techniques?
 
