@@ -12,4 +12,6 @@ Hierarchical & Spectral Clustering: https://people.csail.mit.edu/dsontag/courses
 
 Invariant Visual Representation by Single Neurons in the Human Brain: www.researchgate.net/publication/7770938_Invariant_Visual_Representation_by_Single_Neurons_in_the_Human_Brain 
 
+Quantum MMNG-based DBSCAN Algorithm: https://www.nature.com/articles/s41598-021-95156-7#Sec5
+
 
