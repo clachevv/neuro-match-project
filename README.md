@@ -2,7 +2,7 @@
 Overarching Question: Can we learn how the brain processes visual stimuli in different brain regions (ROI's) by comparing FMRI data with an optimal AlexNet? 
 
 BONUS Questions: In the frames without a clear subject, is there an identifiable period of time where the participant needs to mentally search for a subject? 
-Can we use Quantum Algorithms to preprocess and cluster the data more effectively?
+Can we use Quantum Algorithms to preprocess our data to produce better correlations in certain regions?
 
 ![READMEPIC](https://github.com/user-attachments/assets/0bb9839a-be3b-4eec-836f-c42f749a124a)
 
